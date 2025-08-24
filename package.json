@@ -15,9 +15,12 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
+<<<<<<< HEAD
   },
   "dependencies": {
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5"
+=======
+>>>>>>> 97fd57d426cfe20c64453a7f9b0a661febe71483
   }
 }
